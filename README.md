@@ -13,7 +13,7 @@ pip install torch torchvision timm scikit-learn opencv-python
 ## How to Run
 1. Open Dog_Aggressive_Behaviour_prediction.ipynb in Jupyter Notebook / Google Colab
 2. Run all cells top to bottom (Kernel → Restart & Run All)
-3. Dataset is auto-downloaded from Kaggle (set your Kaggle API key first)
+3. Dataset is auto-downloaded from Kaggle (Dog Emotion 5 Classes)
 4. Trained model saved as best_dog_behavior_model.pth
 5. For video inference, set VIDEO_PATH to your video file and run the last cell
 
