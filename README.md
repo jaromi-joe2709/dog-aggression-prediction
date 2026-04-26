@@ -27,4 +27,5 @@ pip install torch torchvision timm scikit-learn opencv-python
 - Step 13   : Video inference using OpenCV
 
 ## Team
-Group ID: [Your Group ID] | Team Lead: [Your Name]
+Group :Jaromi D,Dayana ,Rakshitha
+| Team Lead: [Jaromi D]
